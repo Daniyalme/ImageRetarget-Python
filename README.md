@@ -44,11 +44,7 @@ ImageRetarget-python is a content-aware image retargeting project built using Py
 
 2. Copy all files from the MiDaS repository into the `MiDaS` directory of this project.
 
-3. Replace the default `run.py` in MiDaS with the customized `run.py` provided in this repository:
-
-   ```bash
-   cp run.py MiDaS/
-   ```
+3. Replace the default `run.py` in MiDaS with the customized `run.py` provided in `/MiDas/run,py`
 
 4. Download the MiDaS model weights as specified in the MiDaS repository and place them in the correct directory.
 
