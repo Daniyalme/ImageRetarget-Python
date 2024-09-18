@@ -4,7 +4,6 @@ import cv2 as cv
 import numpy as np
 import time
 import matplotlib.pyplot as plt
-import seaborn as sns
 from skimage.metrics import structural_similarity as ssim
 
 # Local Imports
